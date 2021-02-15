@@ -9,26 +9,30 @@ The purpose of this project is to find information on employees who will be reti
 * Information on employees retiring in the near future 
 	* Gets the employee number, first name, last name, title, title from date and title to date for each employee who was born between 1952 and 1995
 	* [Full Export]( https://github.com/mitchell-alexleigh/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.csv)
-* Data sample
-		![Employee Information](/Resources/emp_info.png)
+	* Data sample
+
+![Employee Information](/Resources/emp_info.png)
 
 * Current Titles of Employees 
 	* Gets the employee number, first name, last name, and only the current title for each employee in the previous table  
-*[Full Export]( https://github.com/mitchell-alexleigh/Pewlett-Hackard-Analysis/blob/main/Data/unique_titles.csv) 
-* Data Sample 
+	* [Full Export]( https://github.com/mitchell-alexleigh/Pewlett-Hackard-Analysis/blob/main/Data/unique_titles.csv) 
+	* Data Sample 
+
 	![Current Titles](/Resources/uni_titles.png)
 
 * Titles of employees retiring in the near future
 	* Gets a count of employees who are about to retire by each title 
 	* [Full Export]( https://github.com/mitchell-alexleigh/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
 	* Data 
-		![Title Count](/Resources/title_count.png)
+	
+	![Title Count](/Resources/title_count.png)
 
 * Employees available for mentorship 
 	* Gets employee number, first name, last name, birth date, title from date, and title to date for each employee where with a birthday between January 1, 1965 and December 31, 1965
 	* [Full Export]( https://github.com/mitchell-alexleigh/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty.csv)
 	* Data Sample 
-		![Mentors](/Resources/mentor.png)
+	
+	![Mentors](/Resources/mentor.png)
 
 ## Summary
 ### Number of roles impacted
